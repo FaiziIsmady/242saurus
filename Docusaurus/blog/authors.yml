@@ -21,3 +21,17 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+FaiziIsmady:
+  name: Muhammad Faizi Ismady Supardjo
+  title: csui student
+  url: https://github.com/FaiziIsmady
+  image_url: https://github.com/FaiziIsmady.png
+  page: true
+
+abyasa05:
+  name: Muhammad Abyasa Pratama
+  title: csui student
+  url: https://github.com/abyasa05
+  image_url: https://github.com/abyasa05.png
+  page: true
